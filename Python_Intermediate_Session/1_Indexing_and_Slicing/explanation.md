@@ -3,7 +3,7 @@
 &nbsp;
 
 
-![Python Indexing and Slicing](../../Interm/img/index_slice.png)
+![Python Indexing and Slicing](../../Python_Intermediate_Session/img/index_slice.png)
 
 
 &nbsp;

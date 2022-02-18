@@ -87,3 +87,13 @@ print("=" * 70)
 print()
 L1.clear()
 print(f"Finally clearing my list L1.clear() = {L1}")
+
+# ==============================================
+
+print()
+
+L3 = list(range(1, 20))
+L4 = list(range(1, 3))
+print(L3 + L4)
+print(f"{L3 + L4 = }")
+print(L4 * 2)

@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![Python Functions](../../Interm/img/functions.png)
+![Python Functions](../../Python_Intermediate_Session/img/functions.png)
 
 &nbsp;
 
